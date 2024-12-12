@@ -1,0 +1,37 @@
+{
+    "students": [
+      {"id": "e001", "name": "Pisoth"},
+      {"id": "e002", "name": "Vireak"},
+      {"id": "e003", "name": "Sopheak"},
+      {"id": "e004", "name": "Ratanak"},
+      {"id": "e005", "name": "Dara"},
+      {"id": "e006", "name": "Nita"},
+      {"id": "e007", "name": "Sina"},
+      {"id": "e008", "name": "Mony"},
+      {"id": "e009", "name": "Kosal"},
+      {"id": "e010", "name": "Kunthea"},
+      {"id": "e011", "name": "Makara"},
+      {"id": "e012", "name": "Vanna"},
+      {"id": "e013", "name": "Sreyneang"},
+      {"id": "e014", "name": "Chantha"},
+      {"id": "e015", "name": "Channy"},
+      {"id": "e016", "name": "Samnang"},
+      {"id": "e017", "name": "Borey"},
+      {"id": "e018", "name": "Davy"},
+      {"id": "e019", "name": "Sopheap"},
+      {"id": "e020", "name": "Vicheka"},
+      {"id": "e021", "name": "Chantrea"},
+      {"id": "e022", "name": "Socheat"},
+      {"id": "e023", "name": "Visal"},
+      {"id": "e024", "name": "Sovann"},
+      {"id": "e025", "name": "Rachana"},
+      {"id": "e026", "name": "Phalla"},
+      {"id": "e027", "name": "Dalis"},
+      {"id": "e028", "name": "Chakriya"},
+      {"id": "e029", "name": "Serey"},
+      {"id": "e030", "name": "Rithy"},
+      {"id": "e031", "name": "Sovath"},
+      {"id": "e032", "name": "Thida"}
+    ]
+  }
+  
